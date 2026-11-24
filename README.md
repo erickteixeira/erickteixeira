@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi 👋 Welcome to my GitHub profile!
+##  📫 Feel free to contact me via:
+- LinkedIn: https://www.linkedin.com/in/erick-teixeira-4141a037a/
+- Email: erickantunest@gmail.com
 
+## 🌱 I love studying and learning new stuf
+## ✨ Enjoy your time around!
 <!--
 **erickteixeira/erickteixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
